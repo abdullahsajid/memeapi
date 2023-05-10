@@ -1,66 +1,66 @@
 [
     {
-        "id": "0",
+        "id": 0,
         "name":"ustad chahat fateh ali khan",
         "url":"https://i.ibb.co/Bwcvh8F/chahat.jpg" 
     },
     {
-        "id": "1",
+        "id": 1,
         "name":"ustad chahat fateh ali khan",
         "url":"https://i.ibb.co/YR0nkv2/chahat-fateh.jpg"
     },
     {
-        "id": "2",
+        "id": 2,
         "name":"dispression",
         "url":"https://i.ibb.co/3RvJYmy/dispression.jpg"
     },
     {
-        "id": "3",
+        "id": 3,
         "name":"Alfaz ka chunao",
         "url":"https://i.ibb.co/jTczykm/alfaz-ka-chunao.jpg"
     },
     {
-        "id": "4",
+        "id": 4,
         "name":"hassan",
         "url":"https://i.ibb.co/HFZ5t8q/ezgif-com-webp-to-jpg.jpg"
     },
     {
-        "id": "5",
+        "id": 5,
         "name":"noor 007",
         "url":"https://i.ibb.co/7YLgrwS/noor-007.jpg"
     },
     {
-        "id": "6",
+        "id": 6,
         "name":"Kashtard gosht mota",
         "url":"https://i.ibb.co/xCTp4qp/Gosht-mota.jpg"
     },
     {
-        "id": "7",
+        "id": 7,
         "name":"storing photos on github",
         "url":"https://pbs.twimg.com/media/FvgHx1cWcAAvqzZ?format=jpg&name=900x900"
     },
     {
-        "id": "8",
+        "id": 8,
         "name":"yar tu smjhta nai hai",
         "url":"https://i.ibb.co/zRt10PL/hamza2.jpg"
     },
     {
-        "id":"9",
+        "id":9,
         "name": "tu khote jitna hogya hai tujh mai akal nai ayi",
         "url": "https://i.ibb.co/84zfCm3/bilal22.webp"
     },
     {
-        "id":"10",
+        "id":10,
         "name": "yar tu acha bhala smajh dar bnda hai",
         "url": "https://i.ibb.co/hRs9Dkz/umair.webp"
     },
     {
-        "id":"11",
+        "id":11,
         "name":"ruko zra sbr kro",
         "url":"https://i.ibb.co/KVGwB05/mai.webp"
     },
     {
-        "id":"12",
+        "id":12,
         "name":"hamza",
         "url":"https://i.ibb.co/pn34qh0/hamzaa.webp"
     }
